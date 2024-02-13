@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ExitTest/.vs/ExitTest/FileContentIndex
+/ExitTest/.vs/ExitTest/v17/ipch/AutoPCH/9ff067e9be4a5b85
+/ExitTest/.vs/ExitTest/v17/ipch/AutoPCH/d74066b5313d710
+/ExitTest/ExitTest/x64/Debug
+/ExitTest/ExitTest/x64/Release/ExitTest.tlog
+/ExitTest/ExitTest/x64/Release
+/ExitTest/x64
+/RTCTime/.vs/RTCTime/FileContentIndex
+/RTCTime/.vs/RTCTime/v17/ipch/AutoPCH
+/RTCTime/RTCTime/x64/Debug
+/RTCTime/.vs/RTCTime/v17
+/ExitTest/.vs/ExitTest/v17/ipch/AutoPCH/104f22a5afe78f06
+/ExitTest/.vs/ExitTest/v17
+/RTCTime/x64/Debug
